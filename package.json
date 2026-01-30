@@ -1,0 +1,11 @@
+{
+  "name": "zk-merkle-airdrop-engine",
+  "version": "1.0.0",
+  "description": "Merkle Tree Airdrop System",
+  "dependencies": {
+    "@openzeppelin/contracts": "^5.0.1",
+    "merkletreejs": "^0.3.11",
+    "keccak256": "^1.0.6",
+    "ethers": "^6.10.0"
+  }
+}
